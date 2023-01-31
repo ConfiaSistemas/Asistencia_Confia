@@ -1,0 +1,90 @@
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbprojResolveAssemblyReference.cache
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Form1.resources
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Resources.resources
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbproj.GenerateResource.Cache
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.exe.config
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.exe
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.pdb
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.xml
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\MadMilkman.Ini.dll
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\System.Data.SQLite.dll
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\MadMilkman.Ini.xml
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.exe
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.xml
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.pdb
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\MetroFramework.Design.dll
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\MetroFramework.dll
+c:\users\aux sistemas\documents\visual studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Principal.resources
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Empleados.resources
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Configuraciones.resources
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Form2.resources
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Menu_Principal.resources
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbproj.ResolveComReference.cache
+C:\Users\Aux Sistemas\Documents\Visual Studio 2017\Projects\Asistencia_Confia\Asistencia_Confia\bin\Debug\Cyotek.Windows.Forms.ColorPicker.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.exe.config
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.exe
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.pdb
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\Asistencia_Confia.xml
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\Cyotek.Windows.Forms.ColorPicker.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\MadMilkman.Ini.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\MetroFramework.Design.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\MetroFramework.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\MetroFramework.Fonts.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\MadMilkman.Ini.xml
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbprojResolveAssemblyReference.cache
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbproj.ResolveComReference.cache
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Configuraciones.resources
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Empleados.resources
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Form1.resources
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Form2.resources
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Menu_Principal.resources
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Resources.resources
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Principal.resources
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbproj.GenerateResource.Cache
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.exe
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.xml
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\obj\Debug\Asistencia_Confia.pdb
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\System.Data.SQLite.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\System.Data.SQLite.xml
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\EntityFramework.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\EntityFramework.SqlServer.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\EntityFramework.xml
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proyectos VB\2017\Asistencia_Confia\Asistencia_Confia\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\Asistencia_Confia.exe.config
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\Asistencia_Confia.exe
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\Asistencia_Confia.pdb
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\Asistencia_Confia.xml
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\EntityFramework.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\MadMilkman.Ini.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\MetroFramework.Design.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\MetroFramework.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\MetroFramework.Fonts.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\EntityFramework.xml
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\MadMilkman.Ini.xml
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\bin\Debug\System.Data.SQLite.dll.config
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbprojResolveAssemblyReference.cache
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbproj.ResolveComReference.cache
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Configuraciones.resources
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Empleados.resources
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Form1.resources
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Form2.resources
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Menu_Principal.resources
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Resources.resources
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Principal.resources
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.vbproj.GenerateResource.Cache
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.exe
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.xml
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.pdb
+D:\Proyectos VB\Asistencia_Confia - copia\Asistencia_Confia\obj\Debug\Asistencia_Confia.Empresas.resources
